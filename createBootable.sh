@@ -3,11 +3,12 @@
 help()
 {
     echo "Usage:createBootable
-                 | Required Arguments |
+                |        Required Arguments        |
                 [ -p | --path ... File path of ISO ]
                 [ -d | --destination ... Destination drive ]
                 [ Output: dd bs=4M if=path of=/dev/destination conv=fdatasync status=progress ]
-                [ lsblk | List all available drives, run seperately in terminal ]
+                [ -h | --help ... HELP ]
+                [ lsblk | List all available drives, run seperately from script ]
                 "
     exit 2
 }

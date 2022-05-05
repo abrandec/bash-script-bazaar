@@ -15,7 +15,7 @@ src
 chmod +x FILENAME.sh
 
 ```
-To use anywhere
+**To use anywhere**
 ```
 1. export PATH=$PATH:~/$dir
 2. source ~/.zshrc || ~/.bashrc || ~/.etc

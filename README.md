@@ -2,7 +2,7 @@
 No need to haggle, tis free
 
 
-## Dir
+## Directory
 ```
 src
 └─ createBootable — "Create a bootable drive from an ISO"

@@ -28,7 +28,7 @@ chmod +x FILENAME.sh
 ## createBootable.sh
 Create a bootable drive from an ISO
 
-###### Requires sudo
+###### **Requires sudo*
 ```
 Commands:
 -p, -path        | ISO file path

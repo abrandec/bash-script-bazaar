@@ -15,10 +15,13 @@ src
 chmod +x FILENAME.sh
 ```
 **To use anywhere**
+1. Export current directory
 ```
-1. export PATH=$PATH:~/$dir
-2. source ~/.zshrc || ~/.bashrc || ~/.etc
-3. FILENAME.sh
+export PATH=$PWD:$PATH
+```
+2. Run scripts anywhere 🤝
+```
+FILENAME.sh
 ```
 
 **Using**

@@ -25,7 +25,7 @@ chmod +x FILENAME.sh
 
 **Using**
 
-#### createBootable
+## createBootable
 Create a bootable drive from an ISO
 
 ###### Requires sudo
@@ -40,7 +40,7 @@ lsblk            | List all available drives,
 
 ## License
 
-[AGPL-3.0-only](https://github.com/abigger87/femplate/blob/master/LICENSE)
+AGPL-3.0-only
 
 ## Disclaimer
 

@@ -13,14 +13,12 @@ src
 **Setup**
 ```
 chmod +x FILENAME.sh
-
 ```
 **To use anywhere**
 ```
 1. export PATH=$PATH:~/$dir
 2. source ~/.zshrc || ~/.bashrc || ~/.etc
 3. FILENAME.sh
-
 ```
 
 **Using**
